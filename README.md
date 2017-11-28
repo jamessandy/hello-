@@ -1,2 +1,3 @@
-# hello-
-This is a task for Google code in for sugar labs
+Hello sugar labs
+Am jammie sandy
+I am from nigeria
